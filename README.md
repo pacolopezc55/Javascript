@@ -13,7 +13,8 @@ Apuntes y ejemplos de Javascript.
 - [OBJETOS](05.OBJETOS.md)
 - [EVENTOS](06.EVENTOS.md)
 - [AJAX](07.AJAX.md)
-- [BIBLIOTECAS](08.BIBLIOTECAS.md)
+- [APIS](08.APIS.md)
+- [BIBLIOTECAS](09.BIBLIOTECAS.md)
 
 ## Referencias
 
@@ -21,6 +22,6 @@ Apuntes y ejemplos de Javascript.
 - [Documentación en Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Tutorial de W3SCHOOLS](https://www.w3schools.com/js)
 - [Referencia de W3SCHOOLS](https://www.w3schools.com/jsref)
-- [State of Javascript](https://2018.stateofjs.com/es/)
+- [State of Javascript](https://stateofjs.com/)
 
 
